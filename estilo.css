@@ -1,0 +1,35 @@
+body{
+    background-color: #181848;
+    color: #f0a818;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+   text-align: justify;
+   background-color: #304878;
+   border: 5px solid #7890a8;
+   margin-right: 20%;
+}
+
+ul{
+    text-align: justify;
+    background-color: #304878;
+    border: 5px solid #7890a8;
+    margin-right: 20%;
+}
+
+.a{
+text-align: right;
+}
+
+.btn{
+    text-decoration: none;
+    border: none;
+}
+ a:link{
+    color: #f0a818;
+    text-decoration: none;
+}
